@@ -7,5 +7,6 @@ location = parsed_json['location']['city']
 temp_f = parsed_json['current_observation']['temp_f']
 print "Morning Jes!"
 print "Here's today's conditions:"
+print "Working on it..."
 print "Current temperature in %s is %s degrees" % (location, temp_f)
 f.close()

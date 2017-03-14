@@ -1,4 +1,4 @@
-This is the initial commit for my weatherstation project.
+This is the initial commit for my weather_station project.
 
 Please check back for news and to check my progress.
 
